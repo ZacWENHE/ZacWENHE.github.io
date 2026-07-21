@@ -28,6 +28,15 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 </div>
 
 
+<div class="interests">
+  <div>Biological Engineering</div>
+  <div>Multi-scale Simulation</div>
+  <div>Biophysics</div>
+  <div>Machine Learning</div>
+  <div>DNA Origami</div>
+</div>
+
+
 # 🔥 News
 <ul>
 <li><em>2026.06</em>: 🎉 Began research with Prof. Mark Bathe's BatheBioNano Lab at <strong>MIT</strong> on pH-controlled enzyme functionalization on chip.</li>
