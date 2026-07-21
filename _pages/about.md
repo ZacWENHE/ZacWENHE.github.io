@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm **Wenhe Zhao** — you can also call me **Zachary**. An Honors undergraduate in **Engineering Physics** at **The Ohio State University**, graduating in May 2027.
 
-My research focuses on **dynamic DNA origami machines**, combining experimental fabrication and TEM imaging with coarse-grained simulation and statistical-mechanics modeling. I have worked in **Prof. Carlos Castro**’s lab at **Ohio State**, **Prof. Gaurav Arya**’s group at **Duke**, and most recently **Prof. Mark Bathe**’s lab at **MIT** on pH-controlled enzyme functionalization. My broader interests include **DNA nanotechnology**, **molecular self-assembly**, **multiscale simulation**, and **machine learning** for nanostructure analysis. I especially enjoy problems where a physical experiment can be tied back to a predictive model.
+My research focuses on **dynamic DNA origami machines**, combining experimental fabrication and TEM imaging with coarse-grained simulation and statistical-mechanics modeling. I have worked in [**Prof. Carlos Castro**](https://mae.osu.edu/people/castro.39)’s lab at [**Ohio State**](https://www.osu.edu/), [**Prof. Gaurav Arya**](https://mems.duke.edu/people/gaurav-arya/)’s group at [**Duke**](https://www.duke.edu/), and most recently [**Prof. Mark Bathe**](https://be.mit.edu/faculty/mark-bathe/)’s lab at [**MIT**](https://www.mit.edu/) on pH-controlled enzyme functionalization. My broader interests include **DNA nanotechnology**, **molecular self-assembly**, **multiscale simulation**, and **machine learning** for nanostructure analysis. I especially enjoy problems where a physical experiment can be tied back to a predictive model.
 
 <div style="margin-top: 0.8em;">
 📄 <a href="Wenhe_Zhao_CV.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;·&nbsp;
@@ -31,7 +31,7 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 # 🔥 News
 - *2026.06*: &nbsp;🎉 Began research with Prof. Mark Bathe's BatheBioNano Lab at **MIT** on pH-controlled enzyme functionalization on chip.
 - *2026.05*: &nbsp;Presented posters at the **IMR Conference** and the **SVC Spring Meeting** (Columbus, OH).
-- *2026.03*: &nbsp;🥇 Won **1st Place in Engineering** at the 31st Denman Undergraduate Research Forum.
+- *2026.03*: &nbsp;🥇 Won [**1st Place in Engineering**](https://mae.osu.edu/news/2026/03/mechanical-engineering-dominates-podium-denman-undergraduate-research-forum) at the 31st Denman Undergraduate Research Forum.
 - *2026.02*: &nbsp;Presented at the **oxDNA Conference & Workshop** (Tempe, AZ).
 - *2025.12*: &nbsp;🏅 **Best Poster Award Nominee** at the MRS Fall Meeting (Boston, MA).
 - *2025.05*: &nbsp;Joined Prof. Gaurav Arya's group at **Duke University** for coarse-grained modeling of DNA origami dynamics.
@@ -64,7 +64,7 @@ A multi-sensor machine-learning framework that uses RealNVP normalizing flows to
 
 **W. Zhao**, D. Duke, K. Huang, *et al.*
 
-31st Denman Undergraduate Research Forum · Columbus, OH · Mar 2026 — *First Place, Engineering*
+31st Denman Undergraduate Research Forum · Columbus, OH · Mar 2026 — [*First Place, Engineering*](https://mae.osu.edu/news/2026/03/mechanical-engineering-dominates-podium-denman-undergraduate-research-forum)
 </div>
 </div>
 
