@@ -134,3 +134,26 @@ h1:before, .anchor:before {
 .masthead__inner-wrap {
     font-family: "Merriweather", Georgia, serif;
 }
+
+/* Research interest blocks */
+.interests {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: 1.6em 0;
+}
+.interests > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #f4f5f9;
+    border: 1px solid #e3e4ee;
+    border-radius: 10px;
+    padding: 14px 8px;
+    font-weight: 700;
+    line-height: 1.25;
+}
+@media (max-width: 640px) {
+    .interests { grid-template-columns: repeat(2, 1fr); }
+}
