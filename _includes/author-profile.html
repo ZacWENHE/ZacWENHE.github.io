@@ -28,6 +28,8 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
+      <!-- CV link (added) -->
+      <li><a href="Wenhe_Zhao_CV.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
@@ -123,7 +125,8 @@
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
-        <li><a href="Wenhe_Zhao_CV.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> CV</a></li>
+      <!-- CV link (added) -->
+      <a href="Wenhe_Zhao_CV.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
