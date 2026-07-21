@@ -41,16 +41,13 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MST 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Optimizing Tool Wear Prediction in Intelligent Manufacturing: A Multi-Sensor Approach Enhanced by RealNVP](https://doi.org/10.1088/1361-6501/ad77ea)
+**[Optimizing Tool Wear Prediction in Intelligent Manufacturing: A Multi-Sensor Approach Enhanced by RealNVP](https://doi.org/10.1088/1361-6501/ad77ea)**
 
-H. Lei, **W. Zhao**, et al.
+H. Lei, Bo Li, HengChang Liu, Keyao Xia, **W. Zhao**.
 
 *Measurement Science and Technology*, 2024
 
-[**Paper**](https://doi.org/10.1088/1361-6501/ad77ea)
-- A multi-sensor machine-learning framework that uses RealNVP normalizing flows to improve tool-wear prediction accuracy in intelligent manufacturing.
-</div>
-</div>
+A multi-sensor machine-learning framework that uses RealNVP normalizing flows to improve tool-wear prediction accuracy in intelligent manufacturing.
 
 **Manuscripts in preparation**
 
@@ -63,12 +60,119 @@ H. Lei, **W. Zhao**, et al.
 <sup>†</sup> <span style="font-size: 0.85em; color: #7a7a7a;">Denotes planned equal (co-first) authorship.</span>
 
 # 🎤 Conference Presentations
-- *2026.03*, 🥇 **First Place Award**, 31st Denman Undergraduate Research Forum, *"Mesoscopic Simulation of Dynamic DNA Origami Nanomachine"* — Columbus, OH
-- *2025.12*, 🏅 **Best Poster Nominee**, Materials Research Society (MRS) Fall Meeting, *"Programmable Processive Motion of DNA Origami Nano-assemblies"* — Boston, MA
-- *2026.02*, oxDNA Conference & Workshop, *"Coarse-grained Modeling of Rolling-based DNA Origami Nanomotor"* — Tempe, AZ
-- *2026.05*, IMR Conference, *"A Free Energy Guided Mesoscopic Model for Large-Scale Dynamical DNA Origami Systems"* — Columbus, OH
-- *2026.05*, SVC 19th Semi-Annual Spring Meeting, *"Dynamic Interactions of a Nanoscale Rack and Pinion Assembly"* — Columbus, OH
-- *2025.10*, MAE Buckeye Engineering Grad Program Research Showcase, *"DNA Origami Nanomachines"* — Columbus, OH
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Denman '26</div><img src='images/conf_denman.jpg' alt="Denman poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mesoscopic Simulation of Dynamic DNA Origami Nanomachine** &nbsp;🥇
+
+**W. Zhao**, D. Duke, K. Huang, *et al.*
+
+31st Denman Undergraduate Research Forum · Columbus, OH · Mar 2026 — *First Place, Engineering*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRS '25</div><img src='images/conf_mrs_rolling.jpg' alt="MRS poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Programmable Long-range Rolling Motion of DNA Origami Nano-assemblies** &nbsp;🏅
+
+<sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, W. Pfeifer, *et al.*
+
+MRS Fall Meeting · Boston, MA · Dec 2025 — *Best Poster Award Nominee*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRS '25</div><img src='images/conf_mrs_teng.jpg' alt="MRS poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Probing Mechanical Properties and Dynamic Assembly of DNA Origami by Coarse-grained Molecular Dynamics Simulations**
+
+T. Teng, D. Duke, **W. Zhao**, *et al.*
+
+MRS Fall Meeting · Boston, MA · Dec 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMR '26</div><img src='images/conf_imr_freeenergy.jpg' alt="IMR poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Free-Energy-Guided Mesoscopic Model for Large-Scale Dynamical DNA Origami Systems**
+
+**W. Zhao**, D. Duke, M. Ma, *et al.*
+
+Institute for Materials and Manufacturing Research (IMR) Conference · Columbus, OH · May 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMR '26</div><img src='images/conf_imr_rackpinion.jpg' alt="IMR poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dynamic Interaction of a Nanoscale Rack and Pinion Assembly**
+
+<sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, D. Duke, *et al.*
+
+Institute for Materials and Manufacturing Research (IMR) Conference · Columbus, OH · May 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SVC '26</div><img src='images/conf_svc_multiarm.jpg' alt="SVC poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Simulation-Guided Design of Multi-arm Nanostructures for Higher-Order Architected Material Assembly**
+
+**W. Zhao**, T. Teng, D. Duke, *et al.*
+
+SVC 19th Semi-Annual Spring Meeting · Columbus, OH · May 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SVC '26</div><img src='images/conf_svc_rackpinion.jpg' alt="SVC poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dynamic Interaction of a Nanoscale Rack and Pinion Assembly**
+
+<sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, D. Duke, *et al.*
+
+SVC 19th Semi-Annual Spring Meeting · Columbus, OH · May 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">oxDNA '26</div><img src='images/conf_oxdna_nanomotor.jpg' alt="oxDNA poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Coarse-grained Modeling of Rolling-based DNA Origami Nanomotor**
+
+<sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, D. Duke, *et al.*
+
+oxDNA Conference & Workshop · Tempe, AZ · Feb 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">oxDNA '26</div><img src='images/conf_oxdna_mesoscopic.jpg' alt="oxDNA poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mesoscopic Dynamics Simulations of DNA Origami Mechanical Response and Assembly Behavior**
+
+T. Teng, D. Duke, **W. Zhao**, *et al.*
+
+oxDNA Conference & Workshop · Tempe, AZ · Feb 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MAE '25</div><img src='images/conf_mae.jpg' alt="MAE Showcase poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DNA Origami Nanomachines**
+
+<sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, W. Pfeifer, *et al.*
+
+MAE Buckeye Engineering Graduate Program Research Showcase · Columbus, OH · Oct 2025
+</div>
+</div>
+
+<sup>†</sup> <span style="font-size: 0.85em; color: #7a7a7a;">Equal contribution (co-first author / co-presenter).</span>
+
 
 # 🎖 Honors and Awards
 - *2026*, 🥇 First Place Award in Engineering, Denman Undergraduate Research Forum
