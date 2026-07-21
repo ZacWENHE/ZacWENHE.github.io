@@ -17,15 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Wenhe Zhao** — you can also call me **Zachary Zhao**. An Honors undergraduate in **Engineering Physics** at **The Ohio State University**, graduating in May 2027. **Seeking for 27Fall PhD opportunities**
+Hi, I'm **Wenhe Zhao** — you can also call me **Zachary Zhao**. An Honors undergraduate in **Engineering Physics** at **The Ohio State University**, graduating in May 2027. **Seeking for 27Fall PhD opportunities** 🔍
 
-My research focuses on **dynamic DNA origami machines**, combining experimental fabrication and TEM imaging with coarse-grained simulation and statistical-mechanics modeling. I have worked in [**Prof. Carlos Castro**](https://mae.osu.edu/people/castro.39)’s lab at [**Ohio State**](https://www.osu.edu/)<img src="images/osu_logo.jpg" alt="Ohio State" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;">, [**Prof. Gaurav Arya**](https://mems.duke.edu/people/gaurav-arya/)’s group at [**Duke**](https://www.duke.edu/)<img src="images/duke_logo.jpg" alt="Duke" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;">, and [**Prof. Mark Bathe**](https://be.mit.edu/faculty/mark-bathe/)’s lab at [**MIT**](https://www.mit.edu/)<img src="images/mit_logo.jpg" alt="MIT" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;"> on pH-controlled enzyme functionalization. My broader interests include **DNA nanotechnology**, **molecular self-assembly**, **multiscale simulation**, and **machine learning** for nanostructure analysis. I especially enjoy problems where a physical experiment can be tied back to a predictive model.
-
-<div style="margin-top: 0.8em;">
-📄 <a href="Wenhe_Zhao_CV.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;·&nbsp;
-✉️ <a href="mailto:zhao.4129@osu.edu"><strong>Email</strong></a> &nbsp;·&nbsp;
-🎓 <a href="https://scholar.google.com/citations?user=tjls-loAAAAJ&hl=en"><strong>Google Scholar</strong></a>
-</div>
+My research focuses on **dynamic DNA origami machines**, combining experimental fabrication and TEM imaging with coarse-grained simulation and statistical-mechanics modeling. I have worked in [**Prof. Carlos Castro**](https://mae.osu.edu/people/castro.39)’s lab at [**Ohio State**](https://www.osu.edu/) <img src="images/osu_logo.jpg" alt="Ohio State" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;"> , [**Prof. Gaurav Arya**](https://mems.duke.edu/people/gaurav-arya/)’s group at [**Duke**](https://www.duke.edu/) <img src="images/duke_logo.jpg" alt="Duke" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;"> , and [**Prof. Mark Bathe**](https://be.mit.edu/faculty/mark-bathe/)’s lab at [**MIT**](https://www.mit.edu/) <img src="images/mit_logo.jpg" alt="MIT" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;">  on pH-controlled enzyme functionalization. My broader interests include **DNA nanotechnology**, **molecular self-assembly**, **multiscale simulation**, and **machine learning** for nanostructure analysis. I especially enjoy problems where a physical experiment can be tied back to a predictive model.
 
 
 <div class="interests">
@@ -35,6 +29,7 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
   <div>Machine Learning</div>
   <div>DNA Origami</div>
 </div>
+
 
 
 # 🔥 News
@@ -56,6 +51,8 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 </li>
 <li><em>2025.05</em>: Joined Prof. Gaurav Arya's group at <strong>Duke University</strong> for coarse-grained modeling of DNA origami dynamics.</li>
 </ul>
+
+
 
 # 📝 Publications
 
@@ -195,6 +192,7 @@ MAE Buckeye Engineering Graduate Program Research Showcase · Columbus, OH · Oc
 - *2026.07*, MidWest Nanotech (miDNAno) Workshop — Oral talk
 - *2025.08*, DMREF Workshop (Funded by NSF) — Oral talk
 
+
 # 🎖 Honors and Awards
 - *2026*, 🥇 First Place Award in Engineering, Denman Undergraduate Research Forum
 - *2026*, Perry Research Scholarship
@@ -205,12 +203,15 @@ MAE Buckeye Engineering Graduate Program Research Showcase · Columbus, OH · Oc
 - *2025*, College of Engineering Scholarship (Balley Endowment Fund)
 - College of Engineering Dean's List
 
+
 # 🔬 Patents
 - **Universal Floating Tool Holder** — Chinese Utility Patent ZL 2023 2 0418328.X (issued Aug 2023). A support-ring and articulated-bearing design that improves grinding precision by centralizing the oscillation pivot.
 - **Nucleic Acid Test Sampling Tube** — Chinese Utility Patent ZL 2022 2 0891815.3 (issued Jul 2023). A new cover mechanism enabling faster, more convenient opening and closing for COVID-19 testing.
 
+
 # 📖 Education
 - *Expected May 2027*, **Honors B.S. in Engineering Physics** (Mechanical Engineering Track), The Ohio State University — GPA: 3.79 · Honors Research Distinction
+
 
 # 💻 Research Experience
 - *2026.06 – present*, **Undergraduate Researcher**, BatheBioNano Lab, Massachusetts Institute of Technology (Advisor: Prof. Mark Bathe). pH-controlled enzyme functionalization on DNA origami chips; all-atom simulation of enzyme–DNA functionalization.
