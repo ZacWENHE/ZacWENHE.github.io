@@ -182,6 +182,10 @@ MAE Buckeye Engineering Graduate Program Research Showcase · Columbus, OH · Oc
 <sup>†</sup> <span style="font-size: 0.85em; color: #7a7a7a;">Equal contribution (co-first author / co-presenter).</span>
 
 
+# 💬 Invited Talks
+- *2026.07*, MidWest Nanotech (miDNAno) Workshop — Oral talk
+- *2025.08*, Designing Materials to Revolutionize and Engineer our Future (DMREF) Workshop — Oral talk
+
 # 🎖 Honors and Awards
 - *2026*, 🥇 First Place Award in Engineering, Denman Undergraduate Research Forum
 - *2026*, Perry Research Scholarship
