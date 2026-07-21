@@ -49,6 +49,7 @@ A multi-sensor machine-learning framework that uses RealNVP normalizing flows to
 - <sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, D. Duke, *et al.* **Programmable Long-range Rolling Motion of DNA Origami Nano-assemblies**
 - <sup>†</sup>**W. Zhao**, <sup>†</sup>S. Ma, D. Duke, *et al.* **Understanding Programmable Gear-Track DNA Origami Systems via Multiscale Coarse-Graining Modeling and Experiments**
 - <sup>†</sup>**W. Zhao**, <sup>†</sup>S. Ma, *et al.* **Characterizing DNA Origami Nanostructures in TEM Images via Molecular-Dynamics-Assisted Machine Learning**
+- **W. Zhao**, S. Ma.**undersanding reverse design of i-motif pH swith**
 - T. Teng, D. Duke, **W. Zhao**, *et al.* **Dynamics Assemblies from Multi-arm DNA Devices with Tunable Mechanical Properties**
 - H. Xu, T. Teng, **W. Zhao**, *et al.* **Controlling DNA Origami with Polynucleotide Brushes**
 
@@ -171,10 +172,12 @@ MAE Buckeye Engineering Graduate Program Research Showcase · Columbus, OH · Oc
 
 # 🎖 Honors and Awards
 - *2026*, 🥇 First Place Award in Engineering, Denman Undergraduate Research Forum
+- *2026*, Perry Research Scholarship
+- *2026*, Academic Enrichment Grant (AEGs)
+- *2026*, Undergraduate Research Scholarship (URS)
 - *2026*, Honors Research Distinction, The Ohio State University
+- *2025*, 🥇 Best Poster Award Nominee, MRS Fall Meeting
 - *2025*, College of Engineering Scholarship (Balley Endowment Fund)
-- *2025*, Best Poster Award Nominee, MRS Fall Meeting
-- Undergraduate Research Scholarship · Perry Research Scholarship · Academic Enrichment Grant
 - College of Engineering Dean's List
 
 # 🔬 Patents
