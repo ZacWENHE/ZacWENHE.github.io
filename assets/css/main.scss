@@ -121,3 +121,9 @@ h1:before, .anchor:before {
 .author__urls li {
     white-space: normal;
 }
+/* Smaller text below the name */
+.sidebar .author__bio,
+.author__urls li,
+.author__urls a {
+    font-size: 0.7rem;
+}
