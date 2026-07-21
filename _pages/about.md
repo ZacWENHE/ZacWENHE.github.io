@@ -34,7 +34,7 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 <li><em>2026.05</em>: Presented posters at the <strong>IMR Conference</strong> and the <strong>SVC Spring Meeting</strong> (Columbus, OH).</li>
 <li>
   <div style="display:flex;align-items:center;gap:14px;">
-    <div style="flex:1"><em>2026.03</em>: 🥇 Won <strong>1st Place in Engineering</strong> at the 31st Denman Undergraduate Research Forum.</div>
+    <div style="flex:1"><em>2026.03</em>: 🥇 [Won <strong>1st Place in Engineering</strong> at the 31st Denman Undergraduate Research Forum.](https://mae.osu.edu/news/2026/03/mechanical-engineering-dominates-podium-denman-undergraduate-research-forum)</div>
     <img src="images/news_denman.jpg" alt="Denman award" style="width:150px;border-radius:6px;flex-shrink:0;box-shadow:1px 1px 4px #bbb;">
   </div>
 </li>
