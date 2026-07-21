@@ -29,12 +29,24 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 Began research with Prof. Mark Bathe's BatheBioNano Lab at **MIT** on pH-controlled enzyme functionalization on chip.
-- *2026.05*: &nbsp;Presented posters at the **IMR Conference** and the **SVC Spring Meeting** (Columbus, OH).
-- *2026.03*: &nbsp;🥇 Won [**1st Place in Engineering**](https://mae.osu.edu/news/2026/03/mechanical-engineering-dominates-podium-denman-undergraduate-research-forum) at the 31st Denman Undergraduate Research Forum.
-- *2026.02*: &nbsp;Presented at the **oxDNA Conference & Workshop** (Tempe, AZ).
-- *2025.12*: &nbsp;🏅 **Best Poster Award Nominee** at the MRS Fall Meeting (Boston, MA).
-- *2025.05*: &nbsp;Joined Prof. Gaurav Arya's group at **Duke University** for coarse-grained modeling of DNA origami dynamics.
+<ul>
+<li><em>2026.06</em>: 🎉 Began research with Prof. Mark Bathe's BatheBioNano Lab at <strong>MIT</strong> on pH-controlled enzyme functionalization on chip.</li>
+<li><em>2026.05</em>: Presented posters at the <strong>IMR Conference</strong> and the <strong>SVC Spring Meeting</strong> (Columbus, OH).</li>
+<li>
+  <div style="display:flex;align-items:center;gap:14px;">
+    <div style="flex:1"><em>2026.03</em>: 🥇 Won <strong>1st Place in Engineering</strong> at the 31st Denman Undergraduate Research Forum.</div>
+    <img src="images/news_denman.jpg" alt="Denman award" style="width:150px;border-radius:6px;flex-shrink:0;box-shadow:1px 1px 4px #bbb;">
+  </div>
+</li>
+<li><em>2026.02</em>: Presented at the <strong>oxDNA Conference &amp; Workshop</strong> (Tempe, AZ).</li>
+<li>
+  <div style="display:flex;align-items:center;gap:14px;">
+    <div style="flex:1"><em>2025.12</em>: 🏅 <strong>Best Poster Award Nominee</strong> at the MRS Fall Meeting (Boston, MA).</div>
+    <img src="images/news_mrs.jpg" alt="MRS Best Poster Nominee ribbon" style="width:150px;border-radius:6px;flex-shrink:0;box-shadow:1px 1px 4px #bbb;">
+  </div>
+</li>
+<li><em>2025.05</em>: Joined Prof. Gaurav Arya's group at <strong>Duke University</strong> for coarse-grained modeling of DNA origami dynamics.</li>
+</ul>
 
 # 📝 Publications
 
