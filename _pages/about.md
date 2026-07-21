@@ -38,14 +38,9 @@ My research focuses on **dynamic DNA origami machines**, combining experimental 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MST 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **[Optimizing Tool Wear Prediction in Intelligent Manufacturing: A Multi-Sensor Approach Enhanced by RealNVP](https://doi.org/10.1088/1361-6501/ad77ea)**
 
-H. Lei, Bo Li, HengChang Liu, Keyao Xia, **W. Zhao**.
-
-*Measurement Science and Technology*, 2024
+H. Lei, **W. Zhao**, *et al.* &nbsp;·&nbsp; *Measurement Science and Technology*, 2024
 
 A multi-sensor machine-learning framework that uses RealNVP normalizing flows to improve tool-wear prediction accuracy in intelligent manufacturing.
 
