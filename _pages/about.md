@@ -17,42 +17,78 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm **Wenhe Zhao** — you can also call me **Zachary**. I'm an Honors undergraduate in **Engineering Physics** (Mechanical Engineering track) at **The Ohio State University**, graduating in May 2027.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I design and simulate **dynamic DNA origami machines** — nanometer-scale devices that can be programmed to roll, step, and reconfigure. My research runs the full loop from bench to model: I build and fold DNA origami nanomotors and image them by transmission electron microscopy (TEM) in Prof. **Carlos Castro's** Nanoengineering & Biodesign Laboratory at Ohio State, and I develop coarse-grained (oxDNA / LAMMPS) and statistical-mechanics models of how they move with Prof. **Gaurav Arya's** group at Duke University. Most recently, I joined Prof. **Mark Bathe's** lab at MIT to work on pH-controlled enzyme functionalization on DNA origami chips.
+
+Broadly, I'm interested in **DNA nanotechnology, molecular self-assembly, multiscale simulation, and machine learning for nanostructure characterization** — I especially enjoy problems where a physical experiment can be tied back to a predictive model.
+
+<div style="margin-top: 0.8em;">
+📄 <a href="Wenhe_Zhao_CV.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;·&nbsp;
+✉️ <a href="mailto:zhao.4129@osu.edu"><strong>Email</strong></a> &nbsp;·&nbsp;
+🎓 <a href="https://scholar.google.com/citations?user=tjls-loAAAAJ&hl=en"><strong>Google Scholar</strong></a>
+</div>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.06*: &nbsp;🎉 Began research with Prof. Mark Bathe's BatheBioNano Lab at **MIT** on pH-controlled enzyme functionalization on chip.
+- *2026.05*: &nbsp;Presented posters at the **IMR Conference** and the **SVC Spring Meeting** (Columbus, OH).
+- *2026.03*: &nbsp;🥇 Won **1st Place in Engineering** at the 31st Denman Undergraduate Research Forum.
+- *2026.02*: &nbsp;Presented at the **oxDNA Conference & Workshop** (Tempe, AZ).
+- *2025.12*: &nbsp;🏅 **Best Poster Award Nominee** at the MRS Fall Meeting (Boston, MA).
+- *2025.05*: &nbsp;Joined Prof. Gaurav Arya's group at **Duke University** for coarse-grained modeling of DNA origami dynamics.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MST 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Optimizing Tool Wear Prediction in Intelligent Manufacturing: A Multi-Sensor Approach Enhanced by RealNVP](https://doi.org/10.1088/1361-6501/ad77ea)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+H. Lei, **W. Zhao**, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Measurement Science and Technology*, 2024
+
+[**Paper**](https://doi.org/10.1088/1361-6501/ad77ea)
+- A multi-sensor machine-learning framework that uses RealNVP normalizing flows to improve tool-wear prediction accuracy in intelligent manufacturing.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Manuscripts in preparation**
+
+- <sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, D. Duke, *et al.* **Programmable Long-range Rolling Motion of DNA Origami Nano-assemblies**
+- <sup>†</sup>**W. Zhao**, <sup>†</sup>S. Ma, D. Duke, *et al.* **Understanding Programmable Gear-Track DNA Origami Systems via Multiscale Coarse-Graining Modeling and Experiments**
+- <sup>†</sup>**W. Zhao**, <sup>†</sup>S. Ma, *et al.* **Characterizing DNA Origami Nanostructures in TEM Images via Molecular-Dynamics-Assisted Machine Learning**
+- T. Teng, D. Duke, **W. Zhao**, *et al.* **Dynamics Assemblies from Multi-arm DNA Devices with Tunable Mechanical Properties**
+- H. Xu, T. Teng, **W. Zhao**, *et al.* **Controlling DNA Origami with Polynucleotide Brushes**
+
+<sup>†</sup> <span style="font-size: 0.85em; color: #7a7a7a;">Denotes planned equal (co-first) authorship.</span>
+
+# 🎤 Conference Presentations
+- *2026.03*, 🥇 **First Place Award**, 31st Denman Undergraduate Research Forum, *"Mesoscopic Simulation of Dynamic DNA Origami Nanomachine"* — Columbus, OH
+- *2025.12*, 🏅 **Best Poster Nominee**, Materials Research Society (MRS) Fall Meeting, *"Programmable Processive Motion of DNA Origami Nano-assemblies"* — Boston, MA
+- *2026.02*, oxDNA Conference & Workshop, *"Coarse-grained Modeling of Rolling-based DNA Origami Nanomotor"* — Tempe, AZ
+- *2026.05*, IMR Conference, *"A Free Energy Guided Mesoscopic Model for Large-Scale Dynamical DNA Origami Systems"* — Columbus, OH
+- *2026.05*, SVC 19th Semi-Annual Spring Meeting, *"Dynamic Interactions of a Nanoscale Rack and Pinion Assembly"* — Columbus, OH
+- *2025.10*, MAE Buckeye Engineering Grad Program Research Showcase, *"DNA Origami Nanomachines"* — Columbus, OH
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026*, 🥇 First Place Award in Engineering, Denman Undergraduate Research Forum
+- *2026*, Honors Research Distinction, The Ohio State University
+- *2025*, College of Engineering Scholarship (Balley Endowment Fund)
+- *2025*, Best Poster Award Nominee, MRS Fall Meeting
+- Undergraduate Research Scholarship · Perry Research Scholarship · Academic Enrichment Grant
+- College of Engineering Dean's List
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔬 Patents
+- **Universal Floating Tool Holder** — Chinese Utility Patent ZL 2023 2 0418328.X (issued Aug 2023). A support-ring and articulated-bearing design that improves grinding precision by centralizing the oscillation pivot.
+- **Nucleic Acid Test Sampling Tube** — Chinese Utility Patent ZL 2022 2 0891815.3 (issued Jul 2023). A new cover mechanism enabling faster, more convenient opening and closing for COVID-19 testing.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+- *Expected May 2027*, **Honors B.S. in Engineering Physics** (Mechanical Engineering Track), The Ohio State University — GPA: 3.79 · Honors Research Distinction
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experience
+- *2026.06 – present*, **Undergraduate Researcher**, BatheBioNano Lab, Massachusetts Institute of Technology (Advisor: Prof. Mark Bathe). pH-controlled enzyme functionalization on DNA origami chips; all-atom simulation of enzyme–DNA functionalization.
+- *2025.05 – present*, **Undergraduate Researcher**, Biological & Soft Materials Modeling Lab, Duke University (Advisor: Prof. Gaurav Arya). Coarse-grained oxDNA/LAMMPS modeling of programmable gear-track and multi-arm DNA origami dynamics.
+- *2024.04 – present*, **Undergraduate Researcher**, Nanoengineering & Biodesign Laboratory, The Ohio State University (Advisor: Prof. Carlos Castro). Design, folding, and TEM characterization of DNA origami nanomotors (NSF DMREF project).
+- *2023.05 – 2023.08*, **Research Intern**, Machining Research Laboratory, CENTECH-EG (Sichuan, China). Tool-life prediction for turning inserts; precision CNC machining.
