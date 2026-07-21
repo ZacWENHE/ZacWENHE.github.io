@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Wenhe Zhao** — you can also call me **Zachary Zhao**. An Honors undergraduate in **Engineering Physics** at **The Ohio State University**, graduating in May 2027.
+Hi, I'm **Wenhe Zhao** — you can also call me **Zachary Zhao**. An Honors undergraduate in **Engineering Physics** at **The Ohio State University**, graduating in May 2027. **Seeking for 27Fall PhD opportunities**
 
 My research focuses on **dynamic DNA origami machines**, combining experimental fabrication and TEM imaging with coarse-grained simulation and statistical-mechanics modeling. I have worked in [**Prof. Carlos Castro**](https://mae.osu.edu/people/castro.39)’s lab at [**Ohio State**](https://www.osu.edu/)<img src="images/osu_logo.jpg" alt="Ohio State" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;">, [**Prof. Gaurav Arya**](https://mems.duke.edu/people/gaurav-arya/)’s group at [**Duke**](https://www.duke.edu/)<img src="images/duke_logo.png" alt="Duke" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;">, and [**Prof. Mark Bathe**](https://be.mit.edu/faculty/mark-bathe/)’s lab at [**MIT**](https://www.mit.edu/)<img src="images/mit_logo.jpg" alt="MIT" style="height:1.6em;vertical-align:middle;margin:-0.3em 5px;"> on pH-controlled enzyme functionalization. My broader interests include **DNA nanotechnology**, **molecular self-assembly**, **multiscale simulation**, and **machine learning** for nanostructure analysis. I especially enjoy problems where a physical experiment can be tied back to a predictive model.
 
