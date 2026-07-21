@@ -111,6 +111,7 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
 /* Sidebar: match the Merriweather body font, and let long lines wrap */
 .sidebar p,
 .sidebar li,
@@ -121,9 +122,15 @@ h1:before, .anchor:before {
 .author__urls li {
     white-space: normal;
 }
+
 /* Smaller text below the name */
 .sidebar .author__bio,
 .author__urls li,
 .author__urls a {
     font-size: 0.7rem;
+}
+
+/* Top menu bar in Merriweather too */
+.masthead__inner-wrap {
+    font-family: "Merriweather", Georgia, serif;
 }
