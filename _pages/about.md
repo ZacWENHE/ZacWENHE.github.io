@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Wenhe Zhao** — you can also call me **Zachary**. I'm an Honors undergraduate in **Engineering Physics** (Mechanical Engineering track) at **The Ohio State University**, graduating in May 2027.
+Hi, I'm **Wenhe Zhao** — you can also call me **Zachary**. An Honors undergraduate in **Engineering Physics** at **The Ohio State University**, graduating in May 2027.
 
-I design and simulate **dynamic DNA origami machines** — nanometer-scale devices that can be programmed to roll, step, and reconfigure. My research runs the full loop from bench to model: I build and fold DNA origami nanomotors and image them by transmission electron microscopy (TEM) in Prof. **Carlos Castro's** Nanoengineering & Biodesign Laboratory at Ohio State, and I develop coarse-grained (oxDNA / LAMMPS) and statistical-mechanics models of how they move with Prof. **Gaurav Arya's** group at Duke University. Most recently, I joined Prof. **Mark Bathe's** lab at MIT to work on pH-controlled enzyme functionalization on DNA origami chips.
-
-Broadly, I'm interested in **DNA nanotechnology, molecular self-assembly, multiscale simulation, and machine learning for nanostructure characterization** — I especially enjoy problems where a physical experiment can be tied back to a predictive model.
+My research focuses on **dynamic DNA origami machines**, combining experimental fabrication and TEM imaging with coarse-grained simulation and statistical-mechanics modeling. I have worked in **Prof. Carlos Castro**’s lab at **Ohio State**, **Prof. Gaurav Arya**’s group at **Duke**, and most recently **Prof. Mark Bathe**’s lab at **MIT** on pH-controlled enzyme functionalization. My broader interests include **DNA nanotechnology**, **molecular self-assembly**, **multiscale simulation**, and **machine learning** for nanostructure analysis. I especially enjoy problems where a physical experiment can be tied back to a predictive model.
 
 <div style="margin-top: 0.8em;">
 📄 <a href="Wenhe_Zhao_CV.pdf"><strong>Curriculum Vitae</strong></a> &nbsp;·&nbsp;
