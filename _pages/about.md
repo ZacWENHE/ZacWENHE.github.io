@@ -67,7 +67,7 @@ A multi-sensor machine-learning framework that uses RealNVP normalizing flows to
 - <sup>†</sup>K. Huang, <sup>†</sup>**W. Zhao**, D. Duke, *et al.* **Programmable Long-range Rolling Motion of DNA Origami Nano-assemblies** (Plan to submit on Nature Nanotechnology 2026 Fall)
 - <sup>†</sup>**W. Zhao**, <sup>†</sup>S. Ma, D. Duke, *et al.* **Understanding Programmable Gear-Track DNA Origami Systems via Multiscale Coarse-Graining Modeling and Experiments** (Plan to submit on ACS nano 2027 Spring)
 - <sup>†</sup>**W. Zhao**, <sup>†</sup>S. Ma, *et al.* **Characterizing DNA Origami Nanostructures in TEM Images via Molecular-Dynamics-Assisted Machine Learning** (Plan to submit on Advance Science 2026 Fall)
-- **W. Zhao**, S. Ma.**Undersanding Reverse Design of i-motif pH Switch** (Plan to submit on JCTC 2026 Fall)
+- **W. Zhao**, S. Ma.**Understanding Reverse Design of i-motif pH Switch** (Plan to submit on JCTC 2026 Fall)
 - T. Teng, D. Duke, **W. Zhao**, *et al.* **Dynamics Assemblies from Multi-arm DNA Devices with Tunable Mechanical Properties**
 - H. Xu, T. Teng, **W. Zhao**, *et al.* **Controlling DNA Origami with Polynucleotide Brushes**
 
